@@ -1,0 +1,106 @@
+html{
+  scroll-behavior: smooth;
+}
+
+
+body{
+    background: url(Image/Coeur.jpg) no-repeat;
+    background-size: 100%
+}
+
+nav{
+  display: flex;
+  list-style: none;
+  margin-left: 50px;
+}
+
+header{
+  display: flex;
+  align-items: center;
+}
+
+img.logo{
+  border-radius: 50%;
+  width: 200px;
+}
+
+li.accueil{
+  color: white;
+  font-size: 40px;
+  margin-left: 70px;
+}
+
+li a{
+  text-decoration: none;
+  color: white
+}
+
+li.blague{
+  color: white;
+  margin-left: 130px;
+  font-size: 40px;
+}
+
+p.slogan{
+  margin-top: 830px;
+  color: darkred;
+  font-size: 150px;
+  margin-left: 250px;
+}
+
+img.blague{
+  font-size: 100px;
+}
+
+img.maman{
+  margin-left: 240px;
+}
+
+div.blague{
+  height: 700px;
+  display: flex;
+}
+
+p.🤪{
+  margin-left: 180px;
+  font-size: 220px;
+}
+
+div.maman{
+  display: flex;
+  height: 600px;
+}
+
+p.🤣{
+  margin-left: 200px;
+  font-size: 220px;
+}
+
+p.🤣2{
+  margin-left: 10px;
+  font-size: 220px;
+}
+
+img.maman{
+  margin-left: 400px;
+}
+
+div.singe{
+  display: flex;
+  height: 600px;
+}
+
+p.🙉{
+  margin-left: 200px;
+  font-size: 220px;
+}
+
+ul{
+  display: flex;
+  list-style: none;
+  text-decoration: none;
+}
+
+li.fete{
+  margin-left: 1631px;
+}
